@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-嗨，你好，这是我的个人学术主页，您可以在此看到我的一些学术相关内容。您也可以转跳到 [我的Blog](http://hrnew.notion.site),来看到更多信息。 
+Welcome to my academic website.
+
+I am a PhD student in Health Policy and Management at
+Huazhong University of Science and Technology.
+My research interests include health economics,
+healthcare resource allocation, payment reform,
+spatial econometrics and machine learning. [My Blog](http://hrnew.notion.site),More information。 
 
 Name
 ======
