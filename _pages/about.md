@@ -16,7 +16,12 @@ haoran niu
 
 Education
 ======
-- Master of Management, 2022-2025(maybe)
+- Phd of Management, 2025-2029
+    
+    School of Medical and Health Management,
+    
+    Huazhong University of Science and Technology
+- Master of Management, 2022-2025
     
     School of Medical and Health Management,
     
@@ -24,7 +29,7 @@ Education
     
 - BSc in Management，2018-2022
     
-    New York medical University
+    Xinxiang medical University
 
 Interests
 ------
